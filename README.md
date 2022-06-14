@@ -1,14 +1,18 @@
+### Hi there 👋
+
+#### I'm a Full-Stack Developer working in Addis Ababa, Ethiopia.
+
+##### NOW
+
+- ✨ Developing A fullstack TMS system;
+- ✨ Developing A fullstack EHR system;
+- ✨ Lecturing at Addis Ababa Scince and Technology University (AASTU), Software Engineering Depatment.
 
 
-## Hi 👋 I am Tameru! 
-I am a Software Enginner.
+##### BIO
 
-- 🌐 Visit my [porfolio website](https://tame.portfolio.io/) for complete background and contact.
-- 👋 My personal [blog](https://tame.github.io/blog/)
-
-
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=tame&show_icons=true&theme=bear" width = 400>
-  <img src = "[https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php)" width = 400>
-</p>
+- 🏢 I'm currently working at AASTU (Ethiopia), Ezangery Medical Serivce P.L.C (Ethiopia) , and Capital Frieght solution LLC.(USA).
+- ⚙️ I use daily: `Java`, `Js`, `Html`, `Css`, `typescript`, `aws`, 
+- 🌱 Learning all about **Web Development**
+- 💬 Ping me about **design**, **branding**,**angular**, **flutter** **springBoot**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of piano
