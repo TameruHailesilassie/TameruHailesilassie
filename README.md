@@ -6,12 +6,13 @@
 
 - ✨ Developing A fullstack TMS system;
 - ✨ Developing A fullstack EHR system;
+- ✨ Developing AI model for weather forecast;
 - ✨ Lecturing at Addis Ababa Scince and Technology University (AASTU), Software Engineering Depatment.
 
 
 ##### BIO
 
-- 🏢 I'm currently working at AASTU (Ethiopia), Ezangery Medical Serivce P.L.C (Ethiopia) , and Capital Frieght solution LLC.(USA).
+- 🏢 I'm currently working at Ethiopian Artificial Intelligence Institute, and Capital Frieght solution LLC.(USA).
 - 🌱 Learning all about **Web Development**
 - 💬 Ping me about **design**, **branding**,**angular**, **flutter** **springBoot**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of piano
