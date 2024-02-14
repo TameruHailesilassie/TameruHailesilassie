@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Addis Ababa, Ethiopia.
+#### I'm a Full-Stack Software Engineer based in Addis Ababa, Ethiopia.
 
 ##### NOW
 
-- ✨ Developing A fullstack TMS system;
-- ✨ Developing A fullstack EHR system;
-- ✨ Developing AI model for weather forecast;
-- ✨ Lecturing at Addis Ababa Scince and Technology University (AASTU), Software Engineering Depatment.
+- 🚀 Senior Software Engineer at EthSwitch S.c.
+- 🌐 Full Stack Engineer at CapitalFreight Solution, USA.
+- 🎓 Lecturer at Addis Ababa Science and Technology University (AASTU), Software Engineering Department.
+- 🧠 Machine Learning Researcher at Ethiopian Artificial Intelligence Institute (EAII).
 
 
 ##### BIO
 
-- 🏢 I'm currently working at Ethiopian Artificial Intelligence Institute, and Capital Frieght solution LLC.(USA).
-- 🌱 Learning all about **Web Development**
-- 💬 Ping me about **design**, **branding**,**angular**, **flutter** **springBoot**, **development**, **design thinking**
+- 🌱 Learning all about **Software Development**
+- 💬 Ping me about **design**, **branding**,**angular**, **flutter** **springBoot**, **microservices** **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of piano
 
 
